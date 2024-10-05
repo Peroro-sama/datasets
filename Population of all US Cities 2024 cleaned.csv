@@ -1,0 +1,301 @@
+US City,Population 2024
+New York,8097282
+Los Angeles,3795936
+Chicago,2638159
+Houston,2319119
+Phoenix,1662607
+Philadelphia,1533828
+San Antonio,1513974
+San Diego,1388996
+Dallas,1302753
+Jacksonville,997164
+Fort Worth,996756
+Austin,984567
+San Jose,956433
+Charlotte,923164
+Columbus,915427
+Indianapolis (balance),876665
+San Francisco,788478
+Seattle,759915
+Denver,716234
+Oklahoma City,709330
+Nashville (balance),687150
+Washington,681683
+El Paso,678859
+Las Vegas,665640
+Boston,646622
+Detroit,631524
+Portland,622882
+Louisville/Jefferson County (balance),620004
+Memphis,613110
+Baltimore,559266
+Albuquerque,558736
+Milwaukee,556111
+Tucson,548772
+Fresno,546718
+Sacramento,526669
+Atlanta,514465
+Mesa,513567
+Kansas City,511532
+Colorado Springs,491441
+Raleigh,487942
+Omaha,480194
+Miami,460289
+Virginia Beach,451637
+Long Beach,444095
+Oakland,435024
+Minneapolis,423250
+Bakersfield,416081
+Tulsa,411308
+Tampa,408510
+Arlington,399825
+Aurora,397811
+Wichita,395484
+Cleveland,359606
+New Orleans,357767
+Henderson,343382
+Honolulu,339558
+Anaheim,338463
+Orlando,325044
+Riverside,320121
+Lexington,319329
+Stockton,319065
+Irvine,316691
+Corpus Christi,316105
+Cincinnati,311595
+Santa Ana,310304
+Greensboro,304279
+Pittsburgh,303413
+Newark,303065
+St. Paul,301380
+Durham,300100
+Lincoln,295798
+North Las Vegas,292623
+Jersey City,291559
+Plano,291450
+Anchorage,284469
+Madison,282005
+Chandler,281107
+Reno,278226
+Gilbert,277490
+St. Louis,275506
+Chula Vista,273841
+Buffalo,273720
+Fort Wayne,271865
+Lubbock,269833
+St. Petersburg,264982
+Toledo,263646
+Laredo,258306
+Port St. Lucie,257756
+Glendale,255490
+Chesapeake,255254
+Winston-Salem,254032
+Irving,253561
+Scottsdale,245231
+Garland,242523
+Enterprise,236331
+Arlington,236007
+Boise,235216
+Cape Coral,234132
+Frisco,232424
+Richmond,230017
+Spokane,229527
+Norfolk,228643
+Huntsville,228616
+Fremont,224800
+San Bernardino,224274
+Tacoma,223968
+Spring Valley,221531
+Santa Clarita,221235
+Hialeah,220930
+Modesto,218989
+McKinney,218846
+Fontana,217561
+Baton Rouge,217342
+Moreno Valley,213566
+Salt Lake City,212570
+Sioux Falls,210734
+Fayetteville,209942
+Des Moines,209232
+Worcester,208476
+Yonkers,206544
+Rochester,206078
+Little Rock,204244
+Grand Prairie,204093
+Tallahassee,203650
+Amarillo,203035
+Peoria,201001
+Augusta-Richmond County (balance),200512
+Knoxville,200400
+Columbus,200167
+Sunrise Manor,198463
+Vancouver,198163
+Oxnard,197347
+Overland Park,196874
+Grand Rapids,195908
+Birmingham,195400
+Montgomery,193702
+Tempe,191336
+Brownsville,191209
+Providence,190807
+Huntington Beach,190037
+Paradise,189495
+Chattanooga,188850
+Akron,188219
+Clarksville,185118
+Fort Lauderdale,184709
+Ontario,184705
+Glendale,184088
+Newport News,182141
+Cary,181754
+Mobile,181253
+Elk Grove,179069
+Eugene,178056
+Salem,177928
+Aurora,176679
+Santa Rosa,175140
+Shreveport,174996
+Rancho Cucamonga,174312
+Pembroke Pines,171134
+Springfield,170525
+Fort Collins,170507
+Murfreesboro,169321
+Oceanside,168705
+Garden Grove,167024
+Denton,164096
+Lancaster,163950
+Surprise,162911
+Roseville,162674
+Killeen,161612
+Corona,161161
+Palmdale,158907
+Salinas,158211
+Charleston,156868
+Macon-Bibb County,156337
+Lakewood,155865
+Paterson,155495
+Hollywood,154211
+Alexandria,153927
+Hayward,153344
+Springfield,153136
+Kansas City,151811
+Bellevue,151505
+Sunnyvale,150872
+Joliet,150568
+Naperville,150520
+Olathe,149419
+Bridgeport,148131
+McAllen,147989
+Savannah,147845
+Escondido,147158
+Gainesville,147001
+Mesquite,146547
+Waco,146241
+Visalia,146073
+Thornton,145834
+Rockford,145270
+Syracuse,145171
+Pasadena,145165
+Columbia,144489
+Pomona,143674
+Palm Bay,140700
+Jackson,140613
+Victorville,140279
+Midland,140232
+Meridian,139920
+Miramar,139586
+Metairie,138958
+Orange,137965
+Fullerton,137911
+New Haven,137173
+Hampton,137037
+Torrance,136818
+Stamford,136480
+Lewisville,135930
+Warren,135832
+Fargo,135588
+Elizabeth,135546
+Cedar Rapids,135358
+Coral Springs,135152
+Dayton,134850
+Round Rock,133691
+Sterling Heights,133055
+Carrollton,132706
+West Valley City,132635
+Kent,132306
+Pasadena,131926
+Santa Clara,131886
+Norman,130674
+Columbia,130337
+Abilene,130251
+Athens-Clarke County (balance),129089
+Pearland,128316
+Clovis,127511
+College Station,126665
+West Palm Beach,126337
+Topeka,125154
+Lakeland,125056
+Wilmington,125007
+Simi Valley,124703
+Allentown,124597
+Lehigh Acres,124357
+North Charleston,123441
+Rochester,122692
+Thousand Oaks,122342
+The Woodlands,122272
+Billings,122077
+Vallejo,121778
+Lafayette,121471
+Concord,121324
+Fairfield,121079
+Broken Arrow,120949
+Arvada,120437
+Independence,120263
+Spring Hill,120022
+Hartford,119626
+Nampa,118587
+Cambridge,118212
+Ann Arbor,117971
+Antioch,117668
+High Point,117619
+New Braunfels,117396
+Berkeley,117214
+League City,116874
+Menifee,116834
+Richardson,116813
+Clearwater,116689
+Goodyear,116460
+Odessa,116015
+Las Cruces,115956
+Manchester,115462
+Waterbury,115360
+Evansville,114651
+Westminster,114302
+West Jordan,114200
+Pompano Beach,114173
+Brandon,114109
+Buckeye,113958
+East Los Angeles,113940
+Conroe,113912
+Lowell,113907
+Greeley,113721
+Tuscaloosa,113711
+Allen,113644
+Richmond,113409
+Carlsbad,113018
+Elgin,112874
+Provo,112756
+Rio Rancho,112735
+Murrieta,112122
+Lansing,111964
+Springfield,111959
+Concord,111863
+South Fulton,111823
+Tyler,111678
+Beaumont,111305
+Everett,111275
+Temecula,110878
+Pueblo,110803
+Sparks,110801
+Miami Gardens,110463
+Santa Maria,110055
