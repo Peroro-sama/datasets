@@ -1,0 +1,115 @@
+notes
+
+//Variables = container that store value
+
+1. declaration lex x;
+2. assign x = 12(number), hello(string, can have number but not mathable), true(boolean)
+
+ex.
+
+    let fullName = "Elvin";
+    let age = 16;
+    let student = true; 
+
+    document.getElementById("p1").textContent = `Your name is ${fullName}`;
+    document.getElementById("p2").textContent = `you are ${age} years old`;
+    document.getElementById("p3").textContent = `and you are a student: ${student}.`;
+
+~Arithmetic Operators = operands (values, variable, etc.)
+                        Operators 
+                        + = add
+                        - = minus
+                        * = multiply
+                        / = divide
+                        ** = exponent
+                        % = modulus (odd or even)
+
+ex.
+
+let student = 52; 
+
+    student = student + 1;
+    student = student - 1;
+    student = student * 2;
+    student = student / 2;
+    student = student ** 2;
+    student = student % 2;
+
+faster way is..
+
+Augmented assignment
+
+    students += 1;
+    students -= 1;
+    students *= 2;
+    students /= 2;
+    students **= 2;
+    students %= 2;
+
+if by 1 only..
+
+increment and decrement variable
+
+    students++;
+    students--;
+
+    console.log(student);
+
+//Operators precedence
+PEMDAS
+1. parenthesis
+2. exponent
+3. multiplication & division & modulo
+4. addition & substraction
+
+
+ex.
+
+    let results = 1 + 2 * 3 + 4 ** 2;
+
+    let results = 6 / 2 ** (2 + 5);
+
+    console.log(results)
+
+//Accepting User input
+
+Easy way = windom promt
+
+    let username;
+
+    username = window.prompt("Please Enter Username");
+
+    console.log(username);
+
+Professional way = HTML textbox
+
+    ~html 
+            <label for="">launch code:</label>
+        <input id="code"><br><br>
+        <button id="submit">submit</button>
+
+    ~java 
+            let username;
+
+        document.getElementById("submit").onclick = function(){
+        username = document.getElementById("code").value;
+
+        //could also make it change something using..
+
+        document.getElementById("mh1").textContent = `LAUNCH`;
+
+        console.log(username);
+    }
+
+
+//Type Conversion = change the dataype of value to another (strings, numbers, boolean)
+
+ex.
+    let code = window.prompt("lauch code");
+    code = Number(code);
+    code +=1;
+
+    console.log(code, typeof code);
+
+
+
